@@ -1,0 +1,96 @@
+/* ########################################## Header Start ############################################ */
+
+.wrapper {
+  width: 100%;
+  min-height: 100vh;
+  background-position: right 10px;
+  /* border: 3px solid aqua; */
+}
+.container {
+  width: 80%;
+  min-height: 100vh;
+  margin: 0 auto;
+  background-position: right 60px;
+  /* border: 3px solid blue; */
+}
+header {
+  display: flex;
+  margin-bottom: 51px;
+  /* border: 1px solid green; */
+}
+.dental__all {
+  display: flex;
+  margin-top: 50px;
+  margin-right: 70px;
+  margin-left: 174px;
+}
+.tooth__img {
+  display: flex;
+  margin-right: 18px;
+  margin-top: 15px;
+  flex-direction: column;
+  /* border: 1px solid aqua; */
+}
+.dental__first_second {
+  display: flex;
+  /* border: 1px solid aqua; */
+}
+.dental__first_p {
+  display: flex;
+  margin-right: 79px;
+  margin-top: 25px;
+  margin-bottom: 18px;
+}
+.dental__first_p img {
+  margin-right: 6px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  /* border: 1px solid aqua; */
+}
+.dental__first_2p {
+  display: flex;
+  margin-bottom: 23px;
+}
+.dental__first_2p img {
+  margin-right: 11px;
+}
+.dental__second {
+  display: flex;
+}
+.dental__second_p {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 24px;
+}
+.dental__second_p img {
+  margin-right: 6px;
+  margin-bottom: 27px;
+}
+.dental__second_p p {
+  display: flex;
+  flex-direction: column;
+}
+.dental__end {
+  display: flex;
+  flex-direction: column;
+  margin-left: 32px;
+}
+.dental__end button {
+  width: 160px;
+  height: 38px;
+  border-radius: 8px;
+  background-color: #dbc88d;
+  border: none;
+  font-size: 14px;
+  margin-top: 31px;
+  margin-bottom: 6px;
+}
+.dental__end p {
+  font-size: 17px;
+  color: #7c7c7c;
+  margin-bottom: 60px;
+}
+
+/* ======================================= Header End ===================================================== */
